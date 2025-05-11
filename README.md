@@ -1,12 +1,30 @@
-# React + Vite
+# GTA Landing Page 🚗💥
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully animated GTA-style landing page built using **React.js** and **GSAP (GreenSock Animation Platform)**. It features smooth animations using the latest `useGSAP` hook from the `gsap` library.
+![image](https://github.com/user-attachments/assets/d4259be8-2005-460f-9643-0a9dcd44de46)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- React functional components
+- Smooth GSAP animations with `useGSAP`
+- Responsive design
+- Styled for a GTA-themed experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/gta-landing-page.git
+cd gta-landing-page
+
+###install
+npm install
+npm install gsap @gsap/react
+
